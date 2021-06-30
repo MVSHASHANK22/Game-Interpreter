@@ -1,6 +1,6 @@
 # Game-Interpreter
  ## Compile  the code: To run the code use the command "make".
- To execute the compiled code: "./calc.
+ ## To execute the compiled code: "./calc.
 The executable produced in calc.
 
 The code of lexical analyzer is in test.l file.
